@@ -22,18 +22,27 @@ This project contains a Python program that finds the two students who are close
 Enter number of students: 3
 
 Student 1:
+
 Name: nikitha
+
 X coordinate: 2
+
 Y coordinate: 3
 
 Student 2:
+
 Name: jyothi
+
 X coordinate: 7
+
 Y coordinate: 5
 
 Student 3:
+
 Name: devi
+
 X coordinate: 4
+
 Y coordinate: 9
 
 ## Output
