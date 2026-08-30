@@ -1,4 +1,4 @@
-# CO1 - Python Programs
+# CO1
 
 ## Description
 
